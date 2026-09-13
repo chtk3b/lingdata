@@ -1,0 +1,51 @@
+@import url('https://googleapis.com');
+
+.t1 {
+    font-family: 'Lobster', sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: cornflowerblue;
+}
+
+.t2 {
+    font-family: 'Lobster', sans-serif;
+    font-size: 17px;
+    font-weight: 250;
+    color: cornflowerblue;
+}
+
+.t3 {
+    font-family: 'Lobster', sans-serif;
+    font-weight: 700;
+    font-size: 80px;
+    color: black;
+}
+
+.t4 {
+    font-family: 'Lobster', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    color:black;
+}
+.image {
+    height:300px;
+    margin:20px 20px 40px 20px;
+    border-radius: 12px;
+}
+
+.headd {
+    background-image: url('photo1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: lightcyan; 
+    padding-top:80px;
+    padding-bottom:80px;
+}
+
+.backk {
+    background-color: lightcyan;
+    border-radius: 12px;
+    padding: 10px;
+    background-blend-mode: color-burn;
+}
